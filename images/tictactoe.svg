@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Inter,Arial,sans-serif">
+<rect width="800" height="500" fill="#0d1321"/>
+<g stroke="#27324d" stroke-width="6" stroke-linecap="round"><path d="M325 110V390M475 110V390M215 205H585M215 295H585"/></g>
+<g stroke="#38bdf8" stroke-width="10" stroke-linecap="round" fill="none"><path d="M245 130l50 50M295 130l-50 50"/><path d="M395 320l50 50M445 320l-50 50"/><path d="M505 130l50 50M555 130l-50 50"/></g>
+<g stroke="#f472b6" stroke-width="10" fill="none"><circle cx="400" cy="155" r="25"/><circle cx="270" cy="250" r="25"/><circle cx="530" cy="345" r="25"/></g>
+<path d="M240 130L555 345" stroke="#22c55e" stroke-width="0"/>
+<text x="400" y="60" font-size="20" font-weight="700" fill="#e2e8f0" text-anchor="middle">Player X's turn</text>
+<text x="400" y="460" font-size="13" fill="#64748b" text-anchor="middle">Placeholder preview — game board</text>
+</svg>
